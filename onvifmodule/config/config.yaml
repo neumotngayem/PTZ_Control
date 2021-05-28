@@ -1,0 +1,17 @@
+camera:
+  CGI_PASSWORD: 'Nesic123_'
+  CGI_USERNAME: root_nesic
+  IP: asilla.tokyo
+  PASSWORD: 'Nesic123_'
+  PORT: 8998
+  USERNAME: root_nesic
+currentProfile: FullHD
+profiles:
+  FullHD:
+    bitrateLimit: 4196
+    height: 1080
+    width: 1920
+  HD:
+    bitrateLimit: 1536
+    height: 720
+    width: 1280
